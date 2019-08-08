@@ -1,0 +1,44 @@
+.bg-cadastro {
+    width: 100%;
+    height: 100%;
+    background-color:#CC0000;
+    background-size: cover;
+    background-position: center;
+}
+.logo {
+    padding-top: 30%;
+    padding-left: 35px;
+    width: 90%;
+}
+
+.novo {
+    padding-top: 30%;
+    color: #fff;
+}
+.bg-transparent {
+    background: transparent;
+}
+ion-button {
+    margin-top: 30px;
+    --background: #fff;
+    color: #CC0000;
+}
+.form {
+    --background:black;
+    padding:35px;
+    
+}
+ion-list {
+ display:contents;
+}
+.bg-transparent {
+    --background: rgba(255,255,255,0.1);
+    padding: 0px;
+}
+.item-native {
+    border-radius: 10px;
+}
+
+ion-input {
+    --color:beige;
+}
